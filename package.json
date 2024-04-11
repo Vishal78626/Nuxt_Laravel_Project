@@ -1,0 +1,20 @@
+{
+  "name": "nuxt_laravel_project",
+  "version": "1.0.0",
+  "description": "- Laravel 11 for backend seprate\r - Nuxt JS 2.0 for frontend\r - SCSS for designing\r - Vuelidate for form validation\r - Vuex for manging store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal78626/Nuxt_Laravel_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal78626/Nuxt_Laravel_Project/issues"
+  },
+  "homepage": "https://github.com/Vishal78626/Nuxt_Laravel_Project#readme"
+}

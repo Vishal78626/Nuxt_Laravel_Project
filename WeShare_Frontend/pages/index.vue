@@ -1,9 +1,11 @@
 <template>
-  <Tutorial/>
+  <RegisterPage/>
 </template>
 
 <script>
+import RegisterPage from './RegisterPage.vue';
 export default {
-  name: 'IndexPage'
+    name: 'IndexPage',
+    components: { RegisterPage }
 }
 </script>
